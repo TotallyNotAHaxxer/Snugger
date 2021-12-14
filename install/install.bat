@@ -1,0 +1,1 @@
+go get github.com/ArkAngeL43/port-scanning/port ; go get github.com/briandowns/spinner ; go get github.com/google/gopacket ; go get github.com/google/gopacket/layers ; go get github.com/google/gopacket/pcap ; go get github.com/schollz/wifiscan
