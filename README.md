@@ -55,6 +55,7 @@ all of it goes in the file `in.txt` and is redirected to out.txt
 
 all information gathered from any module is logged there
 ```
+operating systems tested on: windows, parrot OS, debian, deepin 
 
 # port scanning modules demo
 
